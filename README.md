@@ -1,2 +1,2 @@
 # DataAnalysis
-Repository for data analysis course assignments and labs
+Repository for data analysis course - Assignments and laboratoories
