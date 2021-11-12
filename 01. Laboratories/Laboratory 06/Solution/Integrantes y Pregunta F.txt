@@ -1,0 +1,16 @@
+
+Grupo 1
+	Lester Andrés García Aquino - 1003115
+	Mario Estuardo Gómez Orellana - 1020618
+	José Eduardo Tejeda León - 1097218
+	Mario Andrés Velasquez Banaay - 1092518
+
+
+f. Compare ambos modelos (Naive Bayes y Arboles de decisión) según la cantidad de precisión en base 
+	a la matriz de confusión y en base al AUC
+		i. ¿Cuál modelo es mejor y por qué?
+		
+		- Basado en la matriz comete menos errores de tipo I y II el modelo de árbol de decisión
+			esto no cambia con la precisión ya que el modelo de árbol de decisión posee mayor 
+			precisión con lo cual se concluye que para este caso el mejor modelo es el de 
+			árbol de decisión.
