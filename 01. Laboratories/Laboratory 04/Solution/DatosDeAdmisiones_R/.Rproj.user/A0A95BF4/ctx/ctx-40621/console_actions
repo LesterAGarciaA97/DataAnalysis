@@ -1,0 +1,28 @@
+{
+    "type": [
+        2,
+        0,
+        1,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        3,
+        3
+    ],
+    "data": [
+        "\nR version 4.1.1 (2021-08-10) -- \"Kick Things\"\nCopyright (C) 2021 The R Foundation for Statistical Computing\nPlatform: x86_64-w64-mingw32/x64 (64-bit)\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under certain conditions.\nType 'license()' or 'licence()' for distribution details.\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\nType 'demo()' for some demos, 'help()' for on-line help, or\n'help.start()' for an HTML browser interface to help.\nType 'q()' to quit R.\n\n",
+        "> ",
+        "library(odbc)",
+        "> ",
+        "install.packages(\"DBI\")",
+        "Error in install.packages : Updating loaded packages\n",
+        "> ",
+        "install.packages(\"odbc\")",
+        "Error in install.packages : Updating loaded packages\n\nRestarting R session...\n\n",
+        "Error in gzfile(file, \"wb\") : cannot open the connection\n",
+        "Error saving session (options): R code execution error\n"
+    ]
+}
